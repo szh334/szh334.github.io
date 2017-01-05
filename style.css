@@ -5,7 +5,7 @@ body {
   background-repeat: repeat;
 }
 #wrapper {
-  width: 960px;
+  width: 900px;
   margin: 20px auto 20px auto;
 }
 h1 {
@@ -19,4 +19,14 @@ h4 {
 }
 .skills{
   color:orange;
+}
+#profilepic {
+    width: 100px;
+}
+.links{
+  color:black;
+}
+.level1{
+  font-weight: bold;
+  font-size: 36px;
 }
