@@ -1,0 +1,53 @@
+.jumbotron {
+    background-image: url(thinkingfaded.png);
+}
+
+.btn-primary{
+  background-color: #d65f37;
+}
+
+.icons{
+  color: #d65f37;
+}
+
+
+h2 {
+  color: white;
+  font-family: 'Overpass', sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 25px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+
+}
+
+h4 {
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: #333;
+}
+
+li {
+  text-align: left;
+}
+
+#title {
+
+  font-family: 'Overpass', sans-serif;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 50px;
+  margin-top: 40px;
+  margin-bottom: 1px;
+
+}
+
+#jumbospacing{
+  margin-top: 240px;
+}
+
+
+#services{
+  margin-top: 60px;
+}
